@@ -1,0 +1,25 @@
+.container_titulo_principal{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form_tarea{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo{
+  margin-right: 20px;
+  font-size: 24px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn_tareas{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
